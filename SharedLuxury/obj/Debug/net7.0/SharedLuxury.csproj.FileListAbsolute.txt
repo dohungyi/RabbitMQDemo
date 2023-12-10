@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\bin\Debug\net7.0\SharedLuxury.deps.json
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\bin\Debug\net7.0\SharedLuxury.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\bin\Debug\net7.0\SharedLuxury.dll
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\bin\Debug\net7.0\SharedLuxury.pdb
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.dll
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\refint\SharedLuxury.dll
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.pdb
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\SharedLuxury.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\RabbitMQExample\SharedLuxury\obj\Debug\net7.0\ref\SharedLuxury.dll
